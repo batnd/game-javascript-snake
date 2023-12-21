@@ -118,9 +118,12 @@ canvas {
 
 .rules ul {
     list-style: none;
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
 }
 
-.rules ul li {
+.rules ul li p, .rules ul li div {
     font-family: PTSans, sans-serif;
     font-weight: 400;
     font-size: 20px;

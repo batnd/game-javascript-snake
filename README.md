@@ -4,7 +4,7 @@
 
 ## Внешний вид
 
-![project-screen](project-image.jpg)
+![project-screen](project-images.jpg)
 
 ## Выполненные задачи:
 - Практика работы с JavaScript Canvas;
